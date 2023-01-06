@@ -63,7 +63,7 @@ body {
     gap: 1.9rem;
 }
 
-.card-info p,
+.card-info h2,
 .prices s {
     font-size: 0.925rem;
     color: var(--neutral-dark-grayish-blue);
